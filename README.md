@@ -26,4 +26,4 @@ $$growth\_needed = potential - overall$$
 
 ---
 **Контакти:**
-Залишайтеся на зв'язку! Ви можете знайти мене в [LinkedIn]([https://www.linkedin.com/in/davyd-pylypchuk-1b7774163/]) або переглянути інші мої проекти тут, на GitHub.
+Залишайтеся на зв'язку! Ви можете знайти мене в [LinkedIn](https://www.linkedin.com/in/davyd-pylypchuk-1b7774163/) або переглянути інші мої проекти тут, на GitHub.
